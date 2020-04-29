@@ -1,0 +1,2 @@
+rootProject.name='DesignSupportLibraryTest'
+include ':app'
